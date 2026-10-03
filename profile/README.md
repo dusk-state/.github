@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://cdn.duskstate.dev/logos/dusk-state-wordmark-light-cropped-tight.png" alt="Dusk State" height="180" />
+  <img src="https://cdn.duskstate.dev/library/02-social/canonical/og-image.png" alt="Dusk State" height="600" />
 </p>
-
-<br /><br />
-
-<p align="center">
-  <img src="https://cdn.duskstate.dev/icons/dusk-state-icon-light-tight.png" alt="Dusk State icon" height="72" />
-</p>
-
 
 <br /><br />
 
