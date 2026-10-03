@@ -21,14 +21,21 @@
 
 <br /><br />
 
+
 ## About
 
 Dusk State publishes production-grade tools and verified, machine-readable intelligence for autonomous software agents and the humans and organisations that deploy them. Its products make capabilities, pricing, terms, provenance, and operational change easier to discover, compare, and audit—without presenting inference as fact or automation as authority.
 
-**Slogan:** Evidence before action.  
-**Market line:** Know what changed before your agent acts.
+<br /><br />
 
----
+> **Slogan:** Evidence before action.  
+> **Market line:** Know what changed before your agent acts.
+
+<br /><br />
+
+<img src="https://cdn.duskstate.dev/Iconographs/protocol-grird.png" alt="Supported agent and coding protocols" width="90%" />
+
+<br /><br />
 
 ## What We Build
 
@@ -42,9 +49,10 @@ Dusk State focuses on **trust-and-change intelligence** for agent teams:
 
 - **Agent Vendor Pack** — Generates and validates a vendor's machine-readable pricing, terms, capabilities, discovery, OpenAPI/MCP, and trust-page assets.
 
----
+<br /><br />
 
 ## Core Principles
+
 
 > Explicit over implicit. Evidence over assumption. Authority before action. Human approval for consequential change. Built for production. Honest about limits.
 
@@ -56,7 +64,7 @@ Dusk State focuses on **trust-and-change intelligence** for agent teams:
 
 4. **Production-grade** — Versioned schemas, signed releases, explicit limitations, source attribution, security reporting, and visible change logs.
 
----
+<br /><br />
 
 ## Who We Serve
 
@@ -68,7 +76,7 @@ Dusk State focuses on **trust-and-change intelligence** for agent teams:
 | **Publishers/vendors** | MCP server, API, SaaS, data, or tool providers who need to become accurately discoverable and easier to approve |
 | **Economic principals** | Humans or organisations funding and authorising the account, setting authority, limits, terms, and payment method |
 
----
+<br /><br />
 
 ## Technology Stack
 
@@ -81,19 +89,19 @@ Dusk State focuses on **trust-and-change intelligence** for agent teams:
 - **Agent Runtime:** Cloudflare Agents SDK, Durable Objects, Workflows, and Queues
 - **Agent Protocol:** Authenticated MCP over Streamable HTTP
 
----
+<br /><br />
 
 ## Public Repositories
 
 | Repository | Description |
-|------------|-------------|
+| ------------ | ------------- |
 | [`dusk-state`](https://github.com/dusk-state/dusk-state) | Main Turborepo webstack: public site, API, contracts, UI, domain-trust logic |
 | [`tool-trust-feed`](https://github.com/dusk-state/tool-trust-feed) | Tool Trust & Terms Feed API and MCP server |
 | [`agent-readiness-audit`](https://github.com/dusk-state/agent-readiness-audit) | Audit intake, scoring, and deliverable generation |
 | [`vendor-pack`](https://github.com/dusk-state/vendor-pack) | Agent Vendor Pack generator and validator |
 | [`mcp-schema-watcher`](https://github.com/dusk-state/mcp-schema-watcher) | MCP schema, description, and terms change detection |
 
----
+<br /><br />
 
 ## Documentation
 
@@ -101,7 +109,7 @@ Dusk State focuses on **trust-and-change intelligence** for agent teams:
 - [API Reference](https://duskstate.dev/api) — REST/OpenAPI and MCP tool documentation
 - [Trust Records](https://duskstate.dev/records) — Public tool and service trust records
 
----
+<br /><br />
 
 ## Security
 
@@ -116,7 +124,7 @@ Dusk State follows strict security and governance controls:
 
 Report security issues via [security@duskstate.dev](mailto:security@duskstate.dev).
 
----
+<br /><br />
 
 ## Brand Identity
 
@@ -127,7 +135,7 @@ Report security issues via [security@duskstate.dev](mailto:security@duskstate.de
 
 The Dusk State mark is a state-transition symbol: outlined square (unresolved/discoverable) connected to solid square (resolved/verified). Primary presentation is near-black (`#060606`) on warm off-white (`#F1F1ED`). Typography uses Geist Sans and Geist Mono.
 
----
+<br /><br />
 
 ## Contact
 
@@ -135,6 +143,9 @@ The Dusk State mark is a state-transition symbol: outlined square (unresolved/di
 - **Security reports:** [security@duskstate.dev](mailto:security@duskstate.dev)
 - **Location:** England, United Kingdom
 
----
+<br /><br />
 
+---
 © 2026 Dusk State. Independent technical publisher. All rights reserved.
+
+
