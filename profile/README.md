@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.duskstate.dev/logos/dusk-state-wordmark-light-cropped-tight.png" alt="Dusk State" height="240" />
+  <img src="https://cdn.duskstate.dev/logos/dusk-state-wordmark-light-cropped-tight.png" alt="Dusk State" height="180" />
 </p>
 
 <br /><br />
